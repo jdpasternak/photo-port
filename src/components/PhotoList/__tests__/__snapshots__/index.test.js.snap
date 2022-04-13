@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhotoList is rendering renders 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="flex-row"
+    />
+    <img
+      alt="Commercial Example"
+      src="0.jpg"
+    />
+  </div>
+</DocumentFragment>
+`;
